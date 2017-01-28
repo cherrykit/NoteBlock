@@ -1,0 +1,5 @@
+name: NoteBlocks
+main: me.cherrykit.NoteBlocks
+version: 1.0
+
+commands:
